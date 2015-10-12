@@ -1,5 +1,5 @@
 /* Load File Sexo Peso Duracion de Embarazo
-*   BTS g
+*   BTS Yeison Eduardo
 */
 
 #include<bits/stdc++.h>
